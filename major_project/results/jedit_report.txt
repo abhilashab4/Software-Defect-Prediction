@@ -1,0 +1,9 @@
+--- Performance Report: JEDIT ---
+              precision    recall  f1-score   support
+
+       Clean       0.90      0.71      0.79       219
+       Buggy       0.44      0.75      0.56        68
+
+    accuracy                           0.72       287
+   macro avg       0.67      0.73      0.68       287
+weighted avg       0.79      0.72      0.74       287

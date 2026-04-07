@@ -1,0 +1,9 @@
+--- Performance Report: SYNAPSE ---
+              precision    recall  f1-score   support
+
+       Clean       0.84      0.42      0.56       170
+       Buggy       0.42      0.84      0.56        86
+
+    accuracy                           0.56       256
+   macro avg       0.63      0.63      0.56       256
+weighted avg       0.70      0.56      0.56       256

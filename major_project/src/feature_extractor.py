@@ -176,8 +176,5 @@ def run_extraction(project_name, versions):
         df_cleaned.to_csv(csv_output, index=False)
 
 if __name__ == "__main__":
-    # You can now pass the top-level 'src_1.4' folder and it will find everything
-    run_extraction("camel", [ "1.6"])
+    run_extraction("synapse", [ "1.1", "1.2"])
     
-    # Example for Ant
-    # run_extraction("ant", ["1.3", "1.4", "1.5", "1.6", "1.7"])
