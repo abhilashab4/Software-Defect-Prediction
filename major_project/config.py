@@ -1,9 +1,9 @@
 import torch
 
 # Project Configuration
-PROJECT_NAME = "synapse"  # Change to "camel", "jedit", etc.
-TRAIN_VERSIONS = ["1.1"]
-TEST_VERSION = "1.2"
+PROJECT_NAME = "xerces"  # Change to "camel", "jedit", etc.
+TRAIN_VERSIONS = ["1.2"]
+TEST_VERSION = "1.3"
 
 # Model Hyperparameters
 METRICS_DIM = 20

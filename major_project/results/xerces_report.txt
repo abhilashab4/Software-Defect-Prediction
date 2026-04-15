@@ -1,0 +1,9 @@
+--- Performance Report: XERCES ---
+              precision    recall  f1-score   support
+
+       Clean       0.90      0.55      0.68       379
+       Buggy       0.20      0.66      0.31        67
+
+    accuracy                           0.56       446
+   macro avg       0.55      0.60      0.50       446
+weighted avg       0.80      0.56      0.62       446
