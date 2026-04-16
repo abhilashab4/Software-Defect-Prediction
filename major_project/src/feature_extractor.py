@@ -176,5 +176,5 @@ def run_extraction(project_name, versions):
         # df_cleaned.to_csv(csv_output, index=False)
         df_cleaned.to_csv(csv_output, index=False, encoding="utf-8", errors="replace")
 if __name__ == "__main__":
-    run_extraction("xerces", [ "1.2", "1.3"])
+    run_extraction("poi", [ "2.5", "3.0"])
     

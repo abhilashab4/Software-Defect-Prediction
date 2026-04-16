@@ -1,0 +1,9 @@
+--- Performance Report: POI ---
+              precision    recall  f1-score   support
+
+       Clean       0.69      0.41      0.51       157
+       Buggy       0.73      0.90      0.81       281
+
+    accuracy                           0.72       438
+   macro avg       0.71      0.65      0.66       438
+weighted avg       0.72      0.72      0.70       438
